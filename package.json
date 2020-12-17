@@ -37,7 +37,7 @@
     "@wordpress/eslint-plugin": "7.3.0",
     "@wordpress/i18n": "3.16.0",
     "@wordpress/jest-preset-default": "6.5.0",
-    "@wordpress/jest-puppeteer-axe": "1.10.0",
+    "@wordpress/jest-puppeteer-axe": "2.0.0",
     "@wordpress/postcss-themes": "2.6.0",
     "@wordpress/scripts": "12.5.0",
     "@wordpress/server-side-render": "1.19.1",
